@@ -1,0 +1,3 @@
+rootProject.name = "MapXSample"
+include ':app'
+include ':mapx'
